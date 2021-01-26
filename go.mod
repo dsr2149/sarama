@@ -1,4 +1,4 @@
-module github.com/Shopify/sarama
+module github.com/dsr2149/sarama
 
 go 1.13
 
